@@ -1,0 +1,4 @@
+target'texture'do
+pod'AFNetworking'
+pod'SDCycleScrollView'
+end
